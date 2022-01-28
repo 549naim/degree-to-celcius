@@ -1,0 +1,57 @@
+body{
+    background-image: url(./image/degree.jpg)
+}
+.page-header{
+    color: rgb(224, 52, 52);
+    background: rgba(138, 141, 140, 0.623); 
+    height: 100%;
+    width: 70%;
+    margin:  0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.main-part{
+    border: 2px solid rgba(102, 49, 49, 0.144);
+    height:300px;
+    width: 70%;
+    margin: 0 auto;
+    background: rgba(39, 75, 192, 0.562); 
+   
+}
+.convert{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    padding-left: 10%;
+}
+.celcius{
+    height:40px;
+    width: 200px;
+    border: 2px solid;
+    border-color: yellowgreen;
+    background-color: white;
+
+}
+.celcius-part{
+    margin-left: 200px;
+}
+#input-degree{
+    height:40px;
+    width: 200px;
+    border: 2px solid;
+    border-color:yellowgreen;
+   
+}
+.button{
+   margin-left: 150px;
+   margin-top: 50px; 
+}
+.clear{
+    margin-left: 300px;
+}
+.title{
+    color: rgb(219, 34, 34);
+}
+.text-footer{
+    text-align: center;
+}
